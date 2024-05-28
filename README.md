@@ -2,8 +2,6 @@
 
 This is the game snake, bootable on a x86_64 CPU, written completely in rust. Its foundation is following the very interesting [Writing an OS in Rust](https://os.phil-opp.com/) blog which I would recommend everybody who is interested in this kind of stuff.
 
-But it's not just snake. Thanks to @MoZhonghua its now possible to add different games to the OS and to play them. So apart from snake you can also enjoy a round of 2048.
-
 ![screenshot](./screenshots/screenshot.png)
 
 ## Features
